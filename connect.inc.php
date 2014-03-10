@@ -1,7 +1,7 @@
 <?php
 $mysql_host = 'localhost';
-$mysql_user = 'root';
-$mysql_pass = 'butt';
+$mysql_user = 'dan';
+$mysql_pass = 'the most secure';
 $mysql_db = 'tc_test';
 $connect_error = "Could not connect.";
 
